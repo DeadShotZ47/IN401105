@@ -1,0 +1,16 @@
+D:\งานคอม bro\IN401105\Lab0\Lab0\bin\Debug\net8.0-windows\Lab0.exe
+D:\งานคอม bro\IN401105\Lab0\Lab0\bin\Debug\net8.0-windows\Lab0.deps.json
+D:\งานคอม bro\IN401105\Lab0\Lab0\bin\Debug\net8.0-windows\Lab0.runtimeconfig.json
+D:\งานคอม bro\IN401105\Lab0\Lab0\bin\Debug\net8.0-windows\Lab0.dll
+D:\งานคอม bro\IN401105\Lab0\Lab0\bin\Debug\net8.0-windows\Lab0.pdb
+D:\งานคอม bro\IN401105\Lab0\Lab0\obj\Debug\net8.0-windows\Lab0.Form1.resources
+D:\งานคอม bro\IN401105\Lab0\Lab0\obj\Debug\net8.0-windows\Lab0.csproj.GenerateResource.cache
+D:\งานคอม bro\IN401105\Lab0\Lab0\obj\Debug\net8.0-windows\Lab0.GeneratedMSBuildEditorConfig.editorconfig
+D:\งานคอม bro\IN401105\Lab0\Lab0\obj\Debug\net8.0-windows\Lab0.AssemblyInfoInputs.cache
+D:\งานคอม bro\IN401105\Lab0\Lab0\obj\Debug\net8.0-windows\Lab0.AssemblyInfo.cs
+D:\งานคอม bro\IN401105\Lab0\Lab0\obj\Debug\net8.0-windows\Lab0.csproj.CoreCompileInputs.cache
+D:\งานคอม bro\IN401105\Lab0\Lab0\obj\Debug\net8.0-windows\Lab0.dll
+D:\งานคอม bro\IN401105\Lab0\Lab0\obj\Debug\net8.0-windows\refint\Lab0.dll
+D:\งานคอม bro\IN401105\Lab0\Lab0\obj\Debug\net8.0-windows\Lab0.pdb
+D:\งานคอม bro\IN401105\Lab0\Lab0\obj\Debug\net8.0-windows\Lab0.genruntimeconfig.cache
+D:\งานคอม bro\IN401105\Lab0\Lab0\obj\Debug\net8.0-windows\ref\Lab0.dll
