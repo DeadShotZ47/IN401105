@@ -1,0 +1,10 @@
+D:\งานคอม bro\IN401105\IN401105 LAB 1\IN401105 LAB 1\bin\Debug\IN401105 LAB 1.exe.config
+D:\งานคอม bro\IN401105\IN401105 LAB 1\IN401105 LAB 1\bin\Debug\IN401105 LAB 1.exe
+D:\งานคอม bro\IN401105\IN401105 LAB 1\IN401105 LAB 1\bin\Debug\IN401105 LAB 1.pdb
+D:\งานคอม bro\IN401105\IN401105 LAB 1\IN401105 LAB 1\obj\Debug\IN401105 LAB 1.csproj.AssemblyReference.cache
+D:\งานคอม bro\IN401105\IN401105 LAB 1\IN401105 LAB 1\obj\Debug\IN401105_LAB_1.Properties.Resources.resources
+D:\งานคอม bro\IN401105\IN401105 LAB 1\IN401105 LAB 1\obj\Debug\IN401105 LAB 1.csproj.GenerateResource.cache
+D:\งานคอม bro\IN401105\IN401105 LAB 1\IN401105 LAB 1\obj\Debug\IN401105 LAB 1.csproj.CoreCompileInputs.cache
+D:\งานคอม bro\IN401105\IN401105 LAB 1\IN401105 LAB 1\obj\Debug\IN401105 LAB 1.exe
+D:\งานคอม bro\IN401105\IN401105 LAB 1\IN401105 LAB 1\obj\Debug\IN401105 LAB 1.pdb
+D:\งานคอม bro\IN401105\IN401105 LAB 1\IN401105 LAB 1\obj\Debug\IN401105_LAB_1.Form1.resources
