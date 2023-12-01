@@ -174,7 +174,7 @@ namespace IN401105_LAB_1
            
             catch (DivideByZeroException)
             {
-                textBoxInput.Text = "You can't divide by zero";
+                textBoxInput.Text = "You can't divide by Zero";
             }
         }
     }
